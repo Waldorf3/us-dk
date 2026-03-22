@@ -1,5 +1,6 @@
 # us-dk
-This enables € (Eurosign) and danish characters (æøå) on altGr for Linux.
+The purpose of this is to enables € (Eurosign) and danish characters (æøå) on altGr for Linux with US keyboard. 
+
 I made this explicitly for Fedora KDE 43, but it ought to work on most (all?) distros and GE.
 
 # Custom US-DK Keyboard Setup
