@@ -52,7 +52,7 @@ sudo localectl set-x11-keymap us-dk pc105 us-dk
 sudo rm -rf /var/lib/xkb/*
 rm -rf ~/.cache/kbd
 ```
-
+logout-login
 ---
 
 ### Logic Reference: The 4-Level Quadrant
